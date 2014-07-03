@@ -1,0 +1,2 @@
+#!/bin/sh
+privbind -u nobody -g nobody ./omnibbs.py -g 23
